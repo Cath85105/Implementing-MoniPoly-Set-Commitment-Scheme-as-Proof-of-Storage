@@ -1,0 +1,3 @@
+This provider directory will store the file content and attributes uploaded by client as well as o value.
+
+(o value is used by client when generating commitment)

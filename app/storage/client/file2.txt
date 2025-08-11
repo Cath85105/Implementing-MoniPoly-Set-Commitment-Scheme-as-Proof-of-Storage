@@ -1,0 +1,3 @@
+Title = Company Proposal
+Pages needed = 3
+Date created = 12/6/2025

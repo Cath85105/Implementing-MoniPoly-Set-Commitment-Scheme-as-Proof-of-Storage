@@ -2,15 +2,16 @@
 
 Please refer to Guide for detailed instructions.
 
-Nowadays, cloud storage system has become a common platform to store data online. One of the approaches to 
-ensure data security and integrity is by Proof of Storage (PoS). PoS is a cryptographic 
-protocol implemented to verify the integrity of stored data. 
+**Overview**
+Nowadays, cloud storage system has become a common platform to store data online. Proof of Storage (PoS) is an effective mechanism to verify data integrity without revealing full data value to the verifier. 
+This final year project set up a PoS system using MoniPoly set commitment scheme (https://link.springer.com/chapter/10.1007/978-3-030-64840-4_17). 
 
-In this project, the PoS system is set up using MoniPoly set commitment scheme. MoniPoly was chosen to 
-implement PoS system as it can verify specific properties of a dataset, which includes difference 
-proof and intersection proof. 
+**Objectives**
+- To Protect the security of data.
+- To support expressive proofs, which are difference proofs and intersection proofs.
 
-MoniPoly’s key functions are created independently in C++ functions and exposed through a system to display 
-how clients interact with storage suppliers. The proposed PoS system may be useful in various industries 
-providing data storage services. For example, cloud storage service, medical data service and financial 
-data management service.
+**Future Enhancement**
+- The proposed PoS system may be useful in various industries providing data storage services.
+- For example: cloud storage service, medical data service, financial data management service.
+
+

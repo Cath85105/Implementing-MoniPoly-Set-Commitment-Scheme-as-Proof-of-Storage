@@ -3,6 +3,7 @@
 Please refer to Guide for detailed instructions.
 
 **Overview**
+
 Nowadays, cloud storage system has become a common platform to store data online. Proof of Storage (PoS) is an effective mechanism to verify data integrity without revealing full data value to the verifier. 
 This final year project implements a PoS system using the MoniPoly set commitment scheme (https://link.springer.com/chapter/10.1007/978-3-030-64840-4_17). 
 

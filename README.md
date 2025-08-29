@@ -12,6 +12,7 @@ This final year project implements a PoS system using the MoniPoly set commitmen
 - To support expressive proofs, which are difference proofs and intersection proofs.
 
 **Future Enhancement**
+
 The proposed PoS system has potential applications across multiple industries that rely on secure data storage, such as:
 - Cloud storage providers
 - Medical data services
